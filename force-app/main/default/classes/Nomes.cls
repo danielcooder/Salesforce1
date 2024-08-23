@@ -14,6 +14,6 @@ public class Nomes {
 
 //guia anonima
 
-String nomesAlterado = Nomes.alterarNome('Daniel', 'Oliveira');
-System.debug(nomesAlterado);
+//String nomesAlterado = Nomes.alterarNome('Daniel', 'Oliveira');
+//System.debug(nomesAlterado);
 
